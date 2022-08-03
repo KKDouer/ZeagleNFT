@@ -1,7 +1,7 @@
 {
   "name": "NARUTO",
   "description": "《火影忍者》（日語：NARUTO -ナルト-），通常簡稱為「火影」，為日本漫畫家岸本齊史創作的少年漫畫，講述忍者世界裏圍繞着身為對手的渦卷鳴門與內輪佐助兩人，與其他角色的經歷。",
-  "image": "https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png",
+  "image": "https://github.com/KKDouer/ZeagleNFT/blob/main/Naruto_logo.svg.png?raw=true",
   "external_link": "https://www.baidu.com/",
   "seller_fee_basis_points": 100,
   "fee_recipient": "0x094848857c96A0eaC372bb0Ee9302686841d0229"
